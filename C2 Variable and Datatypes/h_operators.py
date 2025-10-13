@@ -1,5 +1,6 @@
 # arithmetic operators
 
+
 a = 10
 b = 20
 print(a+b)
@@ -35,8 +36,6 @@ print(g)  # false
 
 h = 10==10
 print(h)  # true
-
-
 
 
 # Logical operators
